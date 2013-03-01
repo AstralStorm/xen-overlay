@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name><![CDATA[astralstorm-xen]]></name>
+		<description lang="en"><![CDATA[AstralStorm's Xen virtualization overlay for Sabayon]]></description>
+		<homepage>https://github.com/AstralStorm/xen-overlay/</homepage>
+		<owner type="person">
+		<email>astralstorm@gmail.com</email>
+		<name><![CDATA[AstralStorm]]></name>
+		</owner>
+		<source type="git">git://github.com/AstralStorm/xen-overlay.git</source>
+	</repo>
+</repositories>
